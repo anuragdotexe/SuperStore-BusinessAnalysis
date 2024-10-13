@@ -1,11 +1,4 @@
-# SuperStore-BusinessAnalysis
-This project analyzes superstore sales data to uncover trends, visualize key metrics, and guide business strategies using tools like Pandas, Seaborn, and Plotly for data cleaning, outlier removal, and insights.
-
-Here's a revised version of the README with a more casual and student-friendly tone:
-
----
-
-# Superstore Sales Data Analysis Project
+# Superstore Sales Data Analysis Project - Business Analysis
 
 ## About This Project
 This project is all about analyzing sales data from a superstore to find interesting trends and patterns. The goal is to understand which products are selling the most, which regions are the most profitable, and how we can use data to make better business decisions.
