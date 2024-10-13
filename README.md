@@ -49,7 +49,3 @@ This project is all about analyzing sales data from a superstore to find interes
 
 ## License
 Feel free to use this project as it’s licensed under the MIT License. Check out the [LICENSE](LICENSE) file for details.
-
----
-
-This version is written in a more casual, college-student tone and is more approachable while still maintaining professionalism. The titles and content are now more conversational and less formal, giving it a personal touch.
